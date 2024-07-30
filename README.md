@@ -2,6 +2,6 @@
 
 Dự án 2 trong khoá học lập trình web tại http://tuhoc.cc
 
-Link dự án: https://www.figma.com/file/gPEXkOG0SFeJ92kwpCeSMo
+Link dự án: https://www.figma.com/design/noCNzLxrlX5DmRsDn5PxUk
 
 Kết quả dự án: https://galailaptrinh.github.io/figma-to-html-02/
