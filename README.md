@@ -4,4 +4,4 @@
 
 Link Figma thiết kế web: https://www.figma.com/design/noCNzLxrlX5DmRsDn5PxUk
 
-Link demo web: https://lgkai.github.io/web-frontend_besnik./
+Link demo web:
